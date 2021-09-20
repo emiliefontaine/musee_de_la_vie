@@ -10,7 +10,7 @@
 
 ![Gros canard](https://i.redd.it/es6iuprgu1wx.jpg)
 
-| Syntax | Description |
+| Blobfish | Duckies |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Poisson | Canard |
+| Nageoire | Ailes |
